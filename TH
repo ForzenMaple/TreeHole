@@ -1,0 +1,10 @@
+// project TreeHole
+//Project TreeHole
+#include<cstring>
+#include<iostream>
+int main()
+{
+	using namespace std;
+	cout<<"有什么不开心的话，就请和树洞说吧"<<endl;
+	return 0;
+}
